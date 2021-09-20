@@ -1,0 +1,3 @@
+openpyxl==3.0.8
+tkinterdnd2==0.3.0
+pywin32==300
