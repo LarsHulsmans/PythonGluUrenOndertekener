@@ -8,3 +8,8 @@ download: https://sourceforge.net/projects/tkinterdnd/files/TkinterDnD2/TkinterD
 add TkinterDnD2-0.3/TkinterDnD2 folder to: <code>C:\Users\"your username"\AppData\Local\Programs\Python\Python39\Lib\site-packages</code> <br><br>
 
 run: `pip install -r requirements.txt`
+
+<h2>Build Guide</h2>
+
+install pyinstaller: <code>pip install pyinstaller</code><br>
+run: <code>pyinstaller.exe --onefile --windowed main.py</code>
